@@ -85,7 +85,7 @@ This project aims to simulate a temperature sensor data pipeline, utilizing **Ap
 
 1. **Start Cassandra**:
    ```bash
-   cassandra -f
+   sudo service cassandra start
    ```
 2. **Access the Cassandra Query Language Shell (cqlsh)**:
    ```bash
