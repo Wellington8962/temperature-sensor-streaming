@@ -52,7 +52,7 @@ This project aims to simulate a temperature sensor data pipeline, utilizing **Ap
 
 1. **Clone this repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Wellington8962/temperature-sensor-streaming.git
    ```
 2. **Create and activate a virtual environment**:
    ```bash
