@@ -174,6 +174,6 @@ Ensure these are installed in your virtual environment.
 
 ## Repository
 
-[Include a link to the GitHub repository here]
+[Temperature Sensor Streaming Repository](https://github.com/Wellington8962/temperature-sensor-streaming)
 
 ---
